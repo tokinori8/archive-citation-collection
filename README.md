@@ -34,9 +34,9 @@ doc0009	cite0598	Raw_Reference	Scouts reviewed by British Minister, Panama Star 
 
 
 
-## データの収集状況
+## Citation collection files
 
-| File name              | # of Documents | # of Citations | # of AR | 
+| File name              | # of Documents | # of Citations | # of Reference to Archive | 
 | :---                   | ---:           | ---:           | ---:     |
 | random-500-about.tsv   | 1,204          | 500            | 13
 | random-500-strict.tsv  | 1,204          | 500            | 7
